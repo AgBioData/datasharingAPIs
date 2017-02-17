@@ -1,2 +1,2 @@
 # datasharingAPIs
-For the data sharing workshop working group (WWG) of AgBioData.
+Please add use cases as issues in the tracker.
